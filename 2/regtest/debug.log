@@ -212,3 +212,9 @@
 2023-08-29T22:57:46Z CreateNewBlock(): block weight: 884 txs: 0 fees: 0 sigops 400
 2023-08-29T22:57:46Z UpdateTip: new best=7514995c0faba1d5264dc1c5a0fdf2a7d9dee8ca4c8a41e2ebe1d4a79242ca14 height=6 version=0x20000000 log2_work=3.807355 tx=7 date='2023-08-29T22:57:46Z' progress=1.000000 cache=0.0MiB(6txo)
 2023-08-29T22:57:46Z [02-default] AddToWallet ed8859b5a00c656e5642d9765f38741a4507a9cda2e84556305740b878b2209f  new
+2023-08-29T23:37:17Z [02-default] keypool added 1 keys (0 internal), size=2000 (1000 internal)
+2023-08-29T23:37:17Z [02-default] keypool reserve 5
+2023-08-29T23:37:17Z [02-default] keypool keep 5
+2023-08-29T23:37:17Z CreateNewBlock(): block weight: 884 txs: 0 fees: 0 sigops 400
+2023-08-29T23:37:17Z UpdateTip: new best=23af9ad6cf14c765194eeaf28c8ea580a5e4d924c4b37d050839b47113abf90c height=7 version=0x20000000 log2_work=4.000000 tx=8 date='2023-08-29T23:37:17Z' progress=1.000000 cache=0.0MiB(7txo)
+2023-08-29T23:37:17Z [02-default] AddToWallet 562e88a3b6fb4fa66ae93539cc68b8ab98148a064a2abdae6087b81ca971d966  new

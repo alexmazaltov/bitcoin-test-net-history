@@ -235,3 +235,4 @@
 2023-08-29T22:42:54Z UpdateTip: new best=0b9dee9f2530b9962ff49a12c73576f9803de35ef085e708206ecdf547e86655 height=5 version=0x20000000 log2_work=3.584963 tx=6 date='2023-08-29T22:42:54Z' progress=1.000000 cache=0.0MiB(5txo)
 2023-08-29T22:57:46Z UpdateTip: new best=7514995c0faba1d5264dc1c5a0fdf2a7d9dee8ca4c8a41e2ebe1d4a79242ca14 height=6 version=0x20000000 log2_work=3.807355 tx=7 date='2023-08-29T22:57:46Z' progress=1.000000 cache=0.0MiB(6txo)
 2023-08-29T23:30:23Z Potential stale tip detected, will try using extra outbound peer (last tip update: 1957 seconds ago)
+2023-08-29T23:37:17Z UpdateTip: new best=23af9ad6cf14c765194eeaf28c8ea580a5e4d924c4b37d050839b47113abf90c height=7 version=0x20000000 log2_work=4.000000 tx=8 date='2023-08-29T23:37:17Z' progress=1.000000 cache=0.0MiB(7txo)
