@@ -523,3 +523,23 @@
 2023-08-30T01:08:47Z [01-default] AddToWallet 5a3f10df43262888c34147cf2b858690f6843b663cce6b17d0e8f7ee3be5df90  new
 2023-08-30T01:15:35Z UpdateTip: new best=257055e044b94915ed9727fb142d8070c544820745f5e790a722d9d73422e61b height=100 version=0x20000000 log2_work=7.658211 tx=101 date='2023-08-30T01:15:35Z' progress=1.000000 cache=0.0MiB(100txo)
 2023-08-30T01:18:24Z UpdateTip: new best=57882ce13c79a6be15aa5a051a73b3a916ff532f55d5ff70e5e3f36b568998fe height=101 version=0x20000000 log2_work=7.672425 tx=102 date='2023-08-30T01:18:24Z' progress=1.000000 cache=0.0MiB(101txo)
+2023-08-30T01:29:44Z [01-default] keypool added 1 keys (0 internal), size=2000 (1000 internal)
+2023-08-30T01:29:44Z [01-default] keypool reserve 1001
+2023-08-30T01:29:44Z [01-default] keypool keep 1001
+2023-08-30T01:29:44Z [01-default] Fee Calculation: Fee:141 Bytes:141 Needed:141 Tgt:0 (requested 0) Reason:"PayTxFee set" Decay 0.00000: Estimation: (-1 - -1) 0.00% 0.0/(0.0 0 mem 0.0 out) Fail: (-1 - -1) 0.00% 0.0/(0.0 0 mem 0.0 out)
+2023-08-30T01:29:44Z [01-default] keypool added 1 keys (1 internal), size=2000 (1000 internal)
+2023-08-30T01:29:44Z [01-default] keypool reserve 1002
+2023-08-30T01:29:44Z [01-default] keypool keep 1002
+2023-08-30T01:29:44Z [01-default] Fee Calculation: Fee:141 Bytes:141 Needed:141 Tgt:0 (requested 0) Reason:"PayTxFee set" Decay 0.00000: Estimation: (-1 - -1) 0.00% 0.0/(0.0 0 mem 0.0 out) Fail: (-1 - -1) 0.00% 0.0/(0.0 0 mem 0.0 out)
+2023-08-30T01:29:44Z [01-default] Fee non-grouped = 141, grouped = 141, using grouped
+2023-08-30T01:29:44Z [01-default] CommitTransaction:
+CTransaction(hash=ea05f43c71, ver=2, vin.size=1, vout.size=2, nLockTime=101)
+    CTxIn(COutPoint(3e81a46a62, 0), scriptSig=, nSequence=4294967293)
+    CScriptWitness(304402204e317d42b63cd9b69cd88a341ecd38b7e1d66e017d835d49e88e4df8a4a1e3a60220520b8873b5fdc88238df597395524fb95a82b7040fd7fe5e3aefe6e0e0b5bdd201, 024718fe214bfdcedcec0949f62516142073037893e0238c6320f651b4440684ce)
+    CTxOut(nValue=49.49999859, scriptPubKey=0014e1333cb52aadeab11c2c36cc55)
+    CTxOut(nValue=0.50000000, scriptPubKey=0014bfbaeeb25d5de5ac2a0be12fbc)
+2023-08-30T01:29:44Z [01-default] AddToWallet ea05f43c7174a62b5e0d1415aff25b43f9e559ccdfee4aaca7ce5c78d19b435f  newupdate
+2023-08-30T01:29:44Z [01-default] Submitting wtx ea05f43c7174a62b5e0d1415aff25b43f9e559ccdfee4aaca7ce5c78d19b435f to mempool for relay
+2023-08-30T01:29:44Z [01-default] AddToWallet ea05f43c7174a62b5e0d1415aff25b43f9e559ccdfee4aaca7ce5c78d19b435f  
+2023-08-30T01:32:26Z UpdateTip: new best=59b48970ee894c52260e6c24d7f31fad0d47c0f322129d5cae657f301de2471a height=102 version=0x20000000 log2_work=7.686501 tx=104 date='2023-08-30T01:32:26Z' progress=1.000000 cache=0.0MiB(104txo)
+2023-08-30T01:32:26Z [01-default] AddToWallet ea05f43c7174a62b5e0d1415aff25b43f9e559ccdfee4aaca7ce5c78d19b435f  update
