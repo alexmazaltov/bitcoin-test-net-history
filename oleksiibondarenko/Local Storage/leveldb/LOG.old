@@ -1,0 +1,2 @@
+2023/08/30-06:26:15.476 c8435 Creating DB /var/lib/docker/overlay2/b182a29e13c17f91dea642d45a117a17d9d15b63a52b270fdab69171ce82b750/diff/home/tester/bitcoin-testnet-box/oleksiibondarenko/Local Storage/leveldb since it was missing.
+2023/08/30-06:26:15.488 c8435 Reusing MANIFEST /var/lib/docker/overlay2/b182a29e13c17f91dea642d45a117a17d9d15b63a52b270fdab69171ce82b750/diff/home/tester/bitcoin-testnet-box/oleksiibondarenko/Local Storage/leveldb/MANIFEST-000001

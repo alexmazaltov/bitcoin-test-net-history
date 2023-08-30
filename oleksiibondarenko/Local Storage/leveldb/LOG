@@ -1,0 +1,3 @@
+2023/08/30-06:26:44.237 c84a3 Reusing MANIFEST /var/lib/docker/overlay2/b182a29e13c17f91dea642d45a117a17d9d15b63a52b270fdab69171ce82b750/diff/home/tester/bitcoin-testnet-box/oleksiibondarenko/Local Storage/leveldb/MANIFEST-000001
+2023/08/30-06:26:44.237 c84a3 Recovering log #3
+2023/08/30-06:26:44.237 c84a3 Reusing old log /var/lib/docker/overlay2/b182a29e13c17f91dea642d45a117a17d9d15b63a52b270fdab69171ce82b750/diff/home/tester/bitcoin-testnet-box/oleksiibondarenko/Local Storage/leveldb/000003.log 

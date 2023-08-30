@@ -543,3 +543,37 @@ CTransaction(hash=ea05f43c71, ver=2, vin.size=1, vout.size=2, nLockTime=101)
 2023-08-30T01:29:44Z [01-default] AddToWallet ea05f43c7174a62b5e0d1415aff25b43f9e559ccdfee4aaca7ce5c78d19b435f  
 2023-08-30T01:32:26Z UpdateTip: new best=59b48970ee894c52260e6c24d7f31fad0d47c0f322129d5cae657f301de2471a height=102 version=0x20000000 log2_work=7.686501 tx=104 date='2023-08-30T01:32:26Z' progress=1.000000 cache=0.0MiB(104txo)
 2023-08-30T01:32:26Z [01-default] AddToWallet ea05f43c7174a62b5e0d1415aff25b43f9e559ccdfee4aaca7ce5c78d19b435f  update
+2023-08-30T02:07:53Z Potential stale tip detected, will try using extra outbound peer (last tip update: 2127 seconds ago)
+2023-08-30T02:18:23Z Potential stale tip detected, will try using extra outbound peer (last tip update: 2757 seconds ago)
+2023-08-30T02:28:53Z Potential stale tip detected, will try using extra outbound peer (last tip update: 3387 seconds ago)
+2023-08-30T02:39:23Z Potential stale tip detected, will try using extra outbound peer (last tip update: 4017 seconds ago)
+2023-08-30T02:49:53Z Potential stale tip detected, will try using extra outbound peer (last tip update: 4647 seconds ago)
+2023-08-30T03:00:23Z Potential stale tip detected, will try using extra outbound peer (last tip update: 5277 seconds ago)
+2023-08-30T03:10:53Z Potential stale tip detected, will try using extra outbound peer (last tip update: 5907 seconds ago)
+2023-08-30T03:21:23Z Potential stale tip detected, will try using extra outbound peer (last tip update: 6537 seconds ago)
+2023-08-30T03:31:53Z Potential stale tip detected, will try using extra outbound peer (last tip update: 7167 seconds ago)
+2023-08-30T03:35:41Z [01-default] keypool added 1 keys (1 internal), size=2000 (1000 internal)
+2023-08-30T03:35:41Z [01-default] keypool reserve 1003
+2023-08-30T03:35:41Z [01-default] keypool keep 1003
+2023-08-30T03:35:41Z [01-default] Fee Calculation: Fee:141 Bytes:141 Needed:141 Tgt:0 (requested 0) Reason:"PayTxFee set" Decay 0.00000: Estimation: (-1 - -1) 0.00% 0.0/(0.0 0 mem 0.0 out) Fail: (-1 - -1) 0.00% 0.0/(0.0 0 mem 0.0 out)
+2023-08-30T03:35:41Z [01-default] keypool added 1 keys (1 internal), size=2000 (1000 internal)
+2023-08-30T03:35:41Z [01-default] keypool reserve 1004
+2023-08-30T03:35:41Z [01-default] keypool keep 1004
+2023-08-30T03:35:41Z [01-default] Fee Calculation: Fee:141 Bytes:141 Needed:141 Tgt:0 (requested 0) Reason:"PayTxFee set" Decay 0.00000: Estimation: (-1 - -1) 0.00% 0.0/(0.0 0 mem 0.0 out) Fail: (-1 - -1) 0.00% 0.0/(0.0 0 mem 0.0 out)
+2023-08-30T03:35:41Z [01-default] Fee non-grouped = 141, grouped = 141, using grouped
+2023-08-30T03:35:41Z [01-default] CommitTransaction:
+CTransaction(hash=d5dc714da5, ver=2, vin.size=1, vout.size=2, nLockTime=102)
+    CTxIn(COutPoint(ea05f43c71, 0), scriptSig=, nSequence=4294967293)
+    CScriptWitness(304402200f92600dfedffab6a8c7674df47228e08d8d4849a577b5a074db5f4db81b6c15022034ce0cec243209baf2b3c9a2ff664b8cfbbe6655a139c726f9e731b62a61a40801, 028a5b98b0a8bed34a7285d9f5ed09f632fe097fd83337c6619b8b93b3bf72b3f4)
+    CTxOut(nValue=1.00000000, scriptPubKey=0014bfbaeeb25d5de5ac2a0be12fbc)
+    CTxOut(nValue=48.49999718, scriptPubKey=001444e1d9a0c856a8a44b5c4543f2)
+2023-08-30T03:35:41Z [01-default] AddToWallet d5dc714da57d1084f29a1e5f3828948cf65bc3009fae7b95f88a96b32d3c59ba  newupdate
+2023-08-30T03:35:41Z [01-default] Submitting wtx d5dc714da57d1084f29a1e5f3828948cf65bc3009fae7b95f88a96b32d3c59ba to mempool for relay
+2023-08-30T03:35:41Z [01-default] AddToWallet d5dc714da57d1084f29a1e5f3828948cf65bc3009fae7b95f88a96b32d3c59ba  
+2023-08-30T03:36:20Z [01-default] keypool added 1 keys (1 internal), size=2000 (1000 internal)
+2023-08-30T03:36:20Z [01-default] keypool reserve 6
+2023-08-30T03:36:20Z [01-default] keypool keep 6
+2023-08-30T03:36:20Z CreateNewBlock(): block weight: 1449 txs: 1 fees: 141 sigops 401
+2023-08-30T03:36:20Z UpdateTip: new best=7c3ce2da61705e4933dbf74ee85bfb0ee1a652b2ad3e70a42894906a726ef7b4 height=103 version=0x20000000 log2_work=7.700440 tx=106 date='2023-08-30T03:36:20Z' progress=1.000000 cache=0.0MiB(106txo)
+2023-08-30T03:36:20Z [01-default] AddToWallet f987eccb3d10950153e546c9cd0018e8e7fa6b59aeb17399743bc73b5da0377f  new
+2023-08-30T03:36:20Z [01-default] AddToWallet d5dc714da57d1084f29a1e5f3828948cf65bc3009fae7b95f88a96b32d3c59ba  update
